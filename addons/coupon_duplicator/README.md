@@ -5,6 +5,8 @@
 
 Duplicate WHMCS promotion coupons multiple times with either random codes or a list of custom codes, while preserving all original coupon settings.
 
+![Module Screenshot](screenshot.png)
+
 ---
 
 ## Features
